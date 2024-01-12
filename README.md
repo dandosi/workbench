@@ -7,7 +7,9 @@ A simple brainstorming space, powered by the github frontend, a github action, a
 For people who don't mind sharing their ideas or their brainstorming process publicly.  
 Remember: there are no bad ideas in brainstorming.
 
-**What it looks like in action:** https://github.com/dmarx/bench-warmers  
+**What it looks like in action:** https://github.com/dandosi/beench-warmers  
+
+(_after dmarx_)
 
 # Setup
 
